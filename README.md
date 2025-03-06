@@ -2,7 +2,7 @@
 - 👀 I’m interested in continuous learning in distributed system engineering, cloud, software development using Java Quarkus.
 - 🌱 I’m currently learning to become a fullstack developer using Java Quarkus, Astro and SolidJS. 
 - 💞️ I’m looking to collaborate on Streaming and Cloud services
-- 📫 How to reach me 
+- 📫 You can reach me on sktechy@outlook.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to meet new people with similar interest and love to do Farming 
 
